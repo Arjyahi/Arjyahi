@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjyahi!</h1>
 <h3 align="center">Tech Enthusiast | Data Science & AI/ML</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjyahi" alt="arjyahi" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://arjyahi.github.io/portfolio/](https://arjyahi.github.io/portfolio/)
 
 - 💬 Ask me about **anything!**

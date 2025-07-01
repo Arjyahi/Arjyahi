@@ -1,6 +1,64 @@
 <h1 align="center">Hi 👋, I'm Arjyahi!</h1>
 <h3 align="center">Tech Enthusiast | Data Science & AI/ML</h3>
 
+## 🙋‍♀️ About Me
+
+I’m a Master’s student in Computer Science at the University of Colorado Boulder, specializing in **Artificial Intelligence, Data Science, and Software Engineering**. My academic and professional journey reflects a deep passion for building intelligent systems that bridge theory and application—especially in interdisciplinary domains like **climate science**, **healthcare**, **finance**, and **automation**.
+
+### 🧠 What I'm Interested In
+
+My core interests lie in:
+- **Deep Learning & Generative AI**
+- **Data Science and Analytics**
+- **AI Agents & Intelligent Automation**
+- **Model Interpretability & Efficiency**
+
+I’m especially driven by the challenge of making AI not just powerful, but **interpretable**, **lightweight**, and **adaptable** to real-world constraints. 
+
+---
+
+### 🛠️ Technical Skills
+
+Languages: `Python`, `SQL`, `Java`  
+Frameworks & Libraries: `TensorFlow`, `PyTorch`, `scikit-learn`, `OpenCV`  
+Tools: `Power BI`, `Tableau`, `Google Looker Studio`  
+Databases: `PostgreSQL`, `SQLite`, `MongoDB`  
+Other: Cloud services, XML data pipelines, data warehousing, automation scripting
+
+Whether it's building custom ML pipelines, automating workflows, or visualizing insights, I thrive at the intersection of **innovation and impact**.
+
+---
+
+### 🌍 What Drives Me?
+
+I’m fueled by **curiosity**, **experimentation**, and a passion for **purposeful technology**.  
+From refining deep learning architectures to unpacking the ethical dimensions of AI, I enjoy translating ideas into impactful solutions that work in the real world.
+
+---
+
+### 🎯 Career Aspirations
+
+I aim to work at the intersection of **AI, data science, and automation**, solving complex interdisciplinary problems with **scalable**, **interpretable**, and **ethical** solutions.
+
+Whether through applied research or product innovation, I want to build systems that **serve both people and the planet**.
+
+---
+
+### 🌿 Beyond Work
+
+Outside of code and research:
+- I unwind by tinkering with **Notion dashboards**, exploring new **gym routines**, and playing **laser tag**  
+- I love **spontaneous hikes**, **discovering new cuisines**, and crafting the **perfect Spotify playlist** 🎵
+
+Balance is key—because life, like code, is better when it’s both structured and spontaneous.
+
+---
+
+### 🚀 Future Dream?
+
+To contribute to **bold, creative projects** that merge **AI**, **automation**, and **human-centered design**—in **clean energy**, **healthcare**, or a domain yet to be imagined.  
+If it involves building **smart systems that make a real difference**, I’m in.
+
 - 👨‍💻 All of my projects are available at [https://arjyahi.github.io/portfolio/](https://arjyahi.github.io/portfolio/)
 
 - 💬 Ask me about **anything!**
